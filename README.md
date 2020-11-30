@@ -4,9 +4,11 @@
 
 #### Classes defined in this repo:
 
-cube.h
-shape.h
-sphere.h
-square.h
+###### cube.h
+###### shape.h
+###### sphere.h
+###### square.h
+###### threedimensionalshape.h
+###### triangle.h
 
 
